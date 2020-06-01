@@ -1,6 +1,6 @@
 import axios from '../../src/index'
 
-// axios({
+// index({
 //   method: 'get',
 //   url: '/base/get',
 //   params: {
@@ -8,7 +8,7 @@ import axios from '../../src/index'
 //   }
 // })
 //
-// axios({
+// index({
 //   method: 'get',
 //   url: '/base/get',
 //   params: {
@@ -20,7 +20,7 @@ import axios from '../../src/index'
 //
 // const date = new Date()
 //
-// axios({
+// index({
 //   method: 'get',
 //   url: '/base/get',
 //   params: {
@@ -28,7 +28,7 @@ import axios from '../../src/index'
 //   }
 // })
 //
-// axios({
+// index({
 //   method: 'get',
 //   url: '/base/get',
 //   params: {
@@ -36,7 +36,7 @@ import axios from '../../src/index'
 //   }
 // })
 //
-// axios({
+// index({
 //   method: 'get',
 //   url: '/base/get',
 //   params: {
@@ -45,7 +45,7 @@ import axios from '../../src/index'
 //   }
 // })
 //
-// axios({
+// index({
 //   method: 'get',
 //   url: '/base/get#hash',
 //   params: {
@@ -53,7 +53,7 @@ import axios from '../../src/index'
 //   }
 // })
 //
-// axios({
+// index({
 //   method: 'get',
 //   url: '/base/get?foo=bar',
 //   params: {
@@ -61,7 +61,7 @@ import axios from '../../src/index'
 //   }
 // })
 //
-// axios({
+// index({
 //   method: 'post',
 //   url: '/base/post',
 //   data: {
@@ -70,7 +70,7 @@ import axios from '../../src/index'
 //   }
 // })
 //
-// axios({
+// index({
 //   method: 'post',
 //   url: '/base/post',
 //   headers: {
@@ -84,7 +84,7 @@ import axios from '../../src/index'
 //
 // const arr = new Int32Array([21, 31])
 //
-// axios({
+// index({
 //   method: 'post',
 //   url: '/base/buffer',
 //   data: arr
@@ -94,7 +94,7 @@ import axios from '../../src/index'
 // const paramsString = 'q=URLUtils.searchParams&topic=api'
 // const searchParams = new URLSearchParams(paramsString)
 //
-// axios({
+// index({
 //   method: 'post',
 //   url: '/base/post',
 //   data: searchParams

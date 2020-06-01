@@ -1,6 +1,6 @@
 import axios from '../../src/index'
 
-// axios({
+// index({
 //   url: '/extend/post',
 //   method: 'post',
 //   data: {
@@ -8,7 +8,7 @@ import axios from '../../src/index'
 //   }
 // })
 //
-// axios.request({
+// index.request({
 //   url: '/extend/post',
 //   method: 'post',
 //   data: {
@@ -16,21 +16,21 @@ import axios from '../../src/index'
 //   }
 // })
 //
-// axios.get('/extend/get')
+// index.get('/extend/get')
 //
-// axios.options('/extend/options')
+// index.options('/extend/options')
 //
-// axios.delete('/extend/delete')
+// index.delete('/extend/delete')
 //
-// axios.head('/extend/head')
+// index.head('/extend/head')
 //
-// axios.post('/extend/post', { msg: 'post' })
+// index.post('/extend/post', { msg: 'post' })
 //
-// axios.put('/extend/put', { msg: 'put' })
+// index.put('/extend/put', { msg: 'put' })
 //
-// axios.patch('/extend/patch', { msg: 'patch' })
+// index.patch('/extend/patch', { msg: 'patch' })
 
-// axios({
+// index({
 //   url: '/extend/post',
 //   method: 'post',
 //   data: {
@@ -38,7 +38,7 @@ import axios from '../../src/index'
 //   }
 // })
 //
-// axios('/extend/post', {
+// index('/extend/post', {
 //   method: 'post',
 //   data: {
 //     msg: 'hello'
